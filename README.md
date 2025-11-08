@@ -2,6 +2,10 @@
 
 A real-time fleet tracking dashboard built with Next.js, TypeScript, and Tailwind CSS. This dashboard visualizes vehicle movements, metrics, and operational insights for fleet management.
 
+## Live Demo
+
+🌐 **Live Application**: [https://bright-belekoy-36d797.netlify.app/](https://bright-belekoy-36d797.netlify.app/)
+
 ## Features
 
 - **Real-time Simulation**: Process and display fleet tracking events in real-time with adjustable playback speed
@@ -117,9 +121,13 @@ The `FleetSimulator` class processes events chronologically based on timestamps:
 
 ## Deployment
 
-The dashboard can be deployed to any platform that supports Next.js:
+The dashboard is deployed on Netlify:
 
-- **Vercel** (Recommended): `vercel deploy`
-- **Netlify**: Connect your repository
+- **Live URL**: [https://bright-belekoy-36d797.netlify.app/](https://bright-belekoy-36d797.netlify.app/)
+
+The dashboard can also be deployed to other platforms that support Next.js:
+
+- **Vercel**: `vercel deploy`
+- **Netlify**: Connect your repository (already configured with `netlify.toml`)
 - **Docker**: Build and deploy containerized version
 
