@@ -123,6 +123,3 @@ The dashboard can be deployed to any platform that supports Next.js:
 - **Netlify**: Connect your repository
 - **Docker**: Build and deploy containerized version
 
-## License
-
-This project is part of the MapUp Fleet Tracking Assessment.
